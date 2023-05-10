@@ -1,6 +1,6 @@
 package org.example.models;
 
-import org.example.common.VehicleType;
+
 
 import java.time.LocalTime;
 
